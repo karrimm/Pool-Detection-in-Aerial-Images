@@ -20,6 +20,13 @@ Run the following command to install the required libraries:
 ```bash
 pip install opencv-python numpy
 ```
+
+### **3. Run the Script**
+Run the script from the command line, passing the path to the input image as an argument,(Replace input_image.jpg with the path to your test image.). For example:
+```bash
+python pool_detector.py input_image.jpg
+```
+
 ---
 ## **Approach**
 1. **Image Loading and Conversion:** Load the input image and convert it from the BGR color space to the HSV color space, which is more effective for color-based segmentation.
