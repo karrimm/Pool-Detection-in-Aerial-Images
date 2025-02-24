@@ -2,8 +2,8 @@
 
 This project detects swimming pools in aerial images and generates:
 1. A text file (`coordinates.txt`) containing the boundary coordinates of the detected pools.
-2. Cropped images of the detected pools, saved in the `cropped_pools` folder.
-3. An output image (`output_image_with_outlines.jpg`) with the detected pools outlined in red.
+2. Cropped images of the detected pools, saved in the `cropped_pools` folder (if using Version 2 code).
+3. An output image (`output_image_with_outlines.jpg`) with the detected pools outlined in red (if using version 1 code).
 
 ---
 
