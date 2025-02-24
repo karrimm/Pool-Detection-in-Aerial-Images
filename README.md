@@ -22,7 +22,7 @@ pip install opencv-python numpy
 ```
 
 ### **3. Run the Script**
-Run the script from the command line, passing the path to the input image as an argument,(Replace input_image.jpg with the path to your test image.). For example:
+Run the script from the command line, passing the path to the input image as an argument, ( Replace input_image.jpg with the path to your test image ). For example:
 ```bash
 python pool_detector.py input_image.jpg
 ```
