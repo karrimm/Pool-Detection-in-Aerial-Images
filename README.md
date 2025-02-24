@@ -38,6 +38,9 @@ pip install opencv-python numpy
   
 ![image](https://github.com/user-attachments/assets/2aacadd1-0f66-41ff-bcb1-558eb23b9527)
 
+![image](https://github.com/user-attachments/assets/4c93f9c0-bb25-455f-9bb1-762cf5a1e3ce)
+
+
 - **V1**
   
 ![image](https://github.com/user-attachments/assets/ff431cee-8dc1-474b-a9d2-bcbee6eba00b)
