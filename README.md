@@ -19,3 +19,12 @@ Run the following command to install the required libraries:
 
 ```bash
 pip install opencv-python numpy
+```
+
+### **3. Approach**
+1. Image Loading and Conversion: Load the input image and convert it from the BGR color space to the HSV color space, which is more effective for color-based segmentation.
+2. Color Thresholding: Define a range for blue colors in the HSV space to create a mask that isolates potential pool regions.
+3. Morphological Operations: Clean the mask using morphological operations to remove noise and fill gaps in the detected regions.
+4. Contour Detection: Identify contours in the processed mask to detect closed regions that could be pools.
+5. Contour Filtering: Filter contours based on area to exclude small regions that are unlikely to be pools.
+6. Output Generation: Save the coordinates of the detected pools to a text file and draw red outlines around the pools on the original image.
