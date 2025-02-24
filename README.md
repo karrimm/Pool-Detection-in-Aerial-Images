@@ -35,7 +35,9 @@ pip install opencv-python numpy
 ## **Sample Outputs**
 
 - **V2**
+  
 ![image](https://github.com/user-attachments/assets/2aacadd1-0f66-41ff-bcb1-558eb23b9527)
 
 - **V1**
+  
 ![image](https://github.com/user-attachments/assets/ff431cee-8dc1-474b-a9d2-bcbee6eba00b)
