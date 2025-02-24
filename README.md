@@ -28,3 +28,14 @@ pip install opencv-python numpy
 4. **Contour Detection:** Identify contours in the processed mask to detect closed regions that could be pools.
 5. **Contour Filtering:** Filter contours based on area to exclude small regions that are unlikely to be pools.
 6. **Output Generation:** Save the coordinates of the detected pools to a text file and draw red outlines around the pools on the original image.
+
+
+
+---
+## **Sample Outputs**
+
+- **V2**
+![image](https://github.com/user-attachments/assets/2aacadd1-0f66-41ff-bcb1-558eb23b9527)
+
+- **V1**
+![image](https://github.com/user-attachments/assets/ff431cee-8dc1-474b-a9d2-bcbee6eba00b)
