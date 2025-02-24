@@ -20,8 +20,7 @@ Run the following command to install the required libraries:
 ```bash
 pip install opencv-python numpy
 ```
-
-
+---
 ## **Approach**
   - **Image Loading and Conversion:**
       Load the input image and convert it from the BGR color space to the HSV color space, which is more effective for color-based segmentation.
